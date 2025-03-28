@@ -414,6 +414,9 @@ footer {
     padding: 4rem 1rem;
     max-width: 1200px;
     margin: 0 auto;
+    background: url('1.jpg') no-repeat center center/cover;
+
+
 }
 
 .values-title {
@@ -486,6 +489,7 @@ footer {
     padding: 4rem 1rem;
     max-width: 1200px;
     margin: 0 auto;
+    background: url('Cómo-asegurar-el-futuro-de-Santa-Cruz.jpg') no-repeat center center/cover;
 }
 
 .services-header {
@@ -495,12 +499,12 @@ footer {
 
 .services-header h2 {
     font-size: 2.5rem;
-    color: #333;
+    color: #fcfcfc;
     margin-bottom: 1rem;
 }
 
 .services-header p {
-    color: #666;
+    color: #fefefe;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -705,11 +709,13 @@ footer {
     padding: 4rem 1rem;
     max-width: 1200px;
     margin: 0 auto;
+    background: url('u1514122363239173350.jpg') no-repeat center center/cover;
+    
 }
 
 .contact-section h2 {
     text-align: center;
-    color: #333;
+    color: #ffffff;
     margin-bottom: 3rem;
 }
 
