@@ -656,7 +656,7 @@ footer {
 }
 
 .read-more-btn {
-    background: #47ff47;
+    background: #05ad0a;
     color: #fff;
     border: none;
     padding: 0.6rem 1rem;
@@ -1068,7 +1068,7 @@ footer {
 
 /* Nuevo botón de descarga */
 .download-btn {
-    background: #4CAF50; /* Verde para descargas */
+    background: #05ad0a; /* Verde para descargas */
     color: white;
     padding: 10px 20px;
     border: none;
