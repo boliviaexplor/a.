@@ -125,21 +125,3 @@ document.addEventListener('scroll', () => {
     });
 });
 
-// Función para abrir imagen
-function openImage(element) {
-    if (window.innerWidth <= 768) {
-        // Móvil: Abrir modal
-        const modal = document.getElementById("fullscreenModal");
-        const modalImg = document.getElementById("modalImage");
-        modal.style.display = "block";
-        modalImg.src = element.src;
-    } else {
-        // Desktop: Abrir en nueva ventana
-        window.open(element.src, '_blank');
-    }
-}
-
-// Función para cerrar modal
-function closeImage() {
-    document.getElementById("fullscreenModal").style.display = "none";
-}
